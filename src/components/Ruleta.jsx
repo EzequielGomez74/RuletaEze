@@ -1,7 +1,7 @@
 import React from 'react'
 import ruleta from '../img/wheel.png'
 import './index.css';
-
+//asdasdasd
 const Ruleta = (props) => (
 
     <div>
