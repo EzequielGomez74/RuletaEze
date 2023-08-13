@@ -1,7 +1,7 @@
 {
   "name": "my-awesome-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://diegojs.github.io/game-react/",
   "dependencies": {
     "bootstrap": "^4.1.1",
